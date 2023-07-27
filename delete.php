@@ -14,7 +14,7 @@ if($result){
     die;
 }
 else{
-    echo "<br>";
+    echo "Not Deleted";
 }
 
 
